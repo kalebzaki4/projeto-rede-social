@@ -56,3 +56,7 @@ section#redes-sociais img :hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.600);
     transition: transform 0.3s, border 1s;
 }
+
+a:hover {
+    background-color: red;
+}
