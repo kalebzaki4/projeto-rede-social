@@ -1,5 +1,6 @@
-```
-🚀 # Projeto Rede Social
+Claro, aqui está o texto com os emojis sem a caixa de código:
+
+🚀 **Projeto Rede Social**
 
 Este repositório contém o código-fonte e a documentação do projeto Rede Social. A rede social é uma plataforma online que permite aos usuários se conectar, compartilhar informações, interagir e construir relacionamentos virtuais. 💻🌐🤝
 
@@ -36,7 +37,6 @@ O projeto Rede Social foi desenvolvido utilizando as seguintes tecnologias:
 Siga as etapas abaixo para configurar e executar o projeto em sua máquina local:
 
 1. Clone este repositório para o seu ambiente local usando o comando abaixo:
-
    ```
    git clone https://github.com/kalebzaki4/projeto-rede-social.git
    ```
@@ -44,51 +44,41 @@ Siga as etapas abaixo para configurar e executar o projeto em sua máquina local
 2. Certifique-se de ter o Python instalado em sua máquina. Recomenda-se o uso da versão 3.x. 🐍
 
 3. Navegue até o diretório raiz do projeto:
-
    ```
    cd projeto-rede-social
    ```
 
 4. Crie um ambiente virtual para isolar as dependências do projeto:
-
    ```
    python -m venv env
    ```
 
 5. Ative o ambiente virtual:
-
    - No Windows:
-
      ```
      env\Scripts\activate
      ```
-
    - No Linux/Mac:
-
      ```
      source env/bin/activate
      ```
 
 6. Instale as dependências do projeto:
-
    ```
    pip install -r requirements.txt
    ```
 
 7. Execute as migrações do banco de dados:
-
    ```
    python manage.py migrate
    ```
 
 8. Inicie o servidor de desenvolvimento:
-
    ```
    python manage.py runserver
    ```
 
 9. Acesse a aplicação em seu navegador, digitando o seguinte endereço:
-
    ```
    http://localhost:8000/
    ```
@@ -96,6 +86,3 @@ Siga as etapas abaixo para configurar e executar o projeto em sua máquina local
 ## Contribuição 🤝
 
 Contribuições para a melhoria do projeto são bem-vindas. Se você encontrou algum problema ou tem uma sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request. 🙌📢
-```
-
-Agora seu repositório está cheio de emojis e tem um toque mais dinâmico! Lembre-se de que os emojis podem variar dependendo do sistema e da plataforma em que estão sendo visualizados. Certifique-se de testar como eles aparecem em diferentes ambientes.
