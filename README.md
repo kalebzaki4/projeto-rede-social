@@ -1,5 +1,3 @@
-Claro, aqui está o texto com os emojis sem a caixa de código:
-
 🚀 **Projeto Rede Social**
 
 Este repositório contém o código-fonte e a documentação do projeto Rede Social. A rede social é uma plataforma online que permite aos usuários se conectar, compartilhar informações, interagir e construir relacionamentos virtuais. 💻🌐🤝
@@ -86,3 +84,11 @@ Siga as etapas abaixo para configurar e executar o projeto em sua máquina local
 ## Contribuição 🤝
 
 Contribuições para a melhoria do projeto são bem-vindas. Se você encontrou algum problema ou tem uma sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request. 🙌📢
+
+## Criador 👤
+
+Este projeto foi criado por [Kalebzaki4](https://github.com/Kalebzaki4). Você pode entrar em contato comigo pelo seguinte email: [kalebzsantosk@gmail.com](mailto:kalebzsantosk@gmail.com).
+
+## Licença 📜
+
+O projeto Rede Social é distribuído sob a licença [MIT](LICENSE). Leia o arquivo [LICENSE](LICENSE) para obter mais informações sobre os termos dessa licença.
